@@ -10,8 +10,9 @@ nav {
 }
 
 .name{
-
+ text-align: center;
 }
+
 
 .background{
 
@@ -22,5 +23,10 @@ nav {
 }
 
 .sociamedia {
-  
+
+}
+
+.footer {
+
+  text-align: center;
 }
